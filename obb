@@ -1,0 +1,3 @@
+cd $HOME/AKMODPUBG
+chmod +x setup
+./setup
